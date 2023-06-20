@@ -1,4 +1,4 @@
-<a  href="https://icons8.com/icon/pIJdjOoL6KfU/python">Python</a> icon by <a href="https://icons8.com">Icons8</a>
+<a  href="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"></a> 
 # Python
 ### Discover Python .
 ### extention : (.ipynp) ---> use jupyter notebook .
