@@ -6,6 +6,6 @@
       <div align="center">
    extention : (.ipynp) ---> use jupyter notebook .
         <div align="center">
-   extention : (.py) ---> use VS code .
+   extention : (.py) ---> use VS code or Pycharm.
 
 </div>
