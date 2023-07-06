@@ -4,7 +4,6 @@
 # # While loops
 
 
-
 i=5
 while i<=10:
     print ("simplelearn : ",i)
